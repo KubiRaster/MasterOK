@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.masterok1">
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Мастер&apos;ОК"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Game6"></activity>
+        <activity android:name=".Game5" />
+        <activity android:name=".Game3" />
+        <activity android:name=".Game4" />
+        <activity android:name=".Game2" />
+        <activity android:name=".Shaxmaty" />
+        <activity android:name=".Repetitor" />
+        <activity android:name=".Plastilin" />
+        <activity android:name=".English" />
+        <activity android:name=".Jivopis" />
+        <activity android:name=".Game1" />
+        <activity android:name=".Prodlenka" />
+        <activity android:name=".Math" />
+        <activity android:name=".Sadik" />
+        <activity
+            android:name=".Games"
+            android:label="Мастер&apos;ОК" />
+        <activity
+            android:name=".OurCenter"
+            android:label="Мастер&apos;ОК" />
+        <activity
+            android:name=".Lenta"
+            android:label="Мастер&apos;ОК" />
+        <activity
+            android:name=".MainActivity"
+            android:label="Мастер&apos;ОК">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

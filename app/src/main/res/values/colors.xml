@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E99F1C</color>
+    <color name="colorPrimaryDark">#F2B963</color>
+    <color name="colorAccent">#000000</color>
+    <color name="Restart">#FFCC80</color>
+    <color name="Game1">#FF5722</color>
+    <color name="Game2">#FFA726</color>
+    <color name="Game3">#FFEE58</color>
+    <color name="Game4">#66BB6A</color>
+    <color name="Game5">#26C6DA</color>
+    <color name="Game6">#0000CD</color>
+    <color name="Game7">#800080</color>
+    <color name="Game8">#FFFFFF</color>
+    <color name="Game9">#000000</color>
+    <color name="Game10">#F06292</color>
+    <color name="Save">#A4DE89</color>
+    <color name="Text">#000000</color>
+    <color name="Prozrach">#00000000</color>
+</resources>

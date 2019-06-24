@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">MasterOK1</string>
+    <string name="title_home">Лента</string>
+    <string name="title_dashboard">О нашем центре</string>
+    <string name="title_notifications">Игры</string>
+    <string name="Q">Добро пожаловать!</string>
+    <string name="title_activity_lenta">Lenta</string>
+    <string name="title_activity_our_center">OurCenter</string>
+    <string name="title_activity_games">Games</string>
+    <string name="W">ЭТО Лента</string>
+    <string name="E">Это ИГРЫ</string>
+    <string name="R">Это о центре</string>
+    <string-array name="Web">
+        <item>Мини-садик развивайка</item>
+        <item>Ментальная математика</item>
+        <item>Продленка</item>
+        <item>Английский язык</item>
+        <item>Живопись</item>
+        <item>Пластилиновая анимация</item>
+        <item>Репетиторство</item>
+        <item>Шахматы</item>
+    </string-array>
+
+    <string name="one">Button</string>
+    <string name="two">Button</string>
+    <string name="three">Button</string>
+    <string name="four">Button</string>
+    <string name="five">Button</string>
+    <string name="six">Button</string>
+    <string name="seven">Button</string>
+    <string name="eight">Button</string>
+    <string name="nine">Button</string>
+    <string name="zero">Начать заново</string>
+    <string name="T">Сохранить имя</string>
+    <string name="Y">Введите Ваше имя!</string>
+    <string name="U">Нажми на нужный цвет</string>
+    <string name="F">Кто изображен на картинке?</string>
+    <string name="H">Что за фигура изображена на картинке?</string>
+
+    <string-array name="Colors">
+        <item>Красный</item>
+        <item>Оранжевый</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Голубой</item>
+        <item>Синий</item>
+        <item>Фиолетовый</item>
+        <item>Белый</item>
+        <item>Черный</item>
+    </string-array>
+
+    <string-array name="English">
+        <item>CAT</item>
+        <item>DOG</item>
+        <item>MOM</item>
+        <item>DAD</item>
+        <item>APPLE</item>
+        <item>BANANA</item>
+        <item>LEMON</item>
+        <item>ORANGE</item>
+        <item>TOMATO</item>
+        <item>POTATO</item>
+        <item>PIG</item>
+        <item>FOX</item>
+        <item>CAR</item>
+        <item>BUS</item>
+        <item>DOCTOR</item>
+        <item>TEACHER</item>
+        <item>HELLO</item>
+        <item>SUN</item>
+        <item>RAIN</item>
+    </string-array>
+
+    <string-array name="Russian">
+        <item>КОТ</item>
+        <item>СОБАКА</item>
+        <item>МАМА</item>
+        <item>ПАПА</item>
+        <item>ЯБЛОКО</item>
+        <item>БАНАН</item>
+        <item>ЛИМОН</item>
+        <item>АПЕЛЬСИН</item>
+        <item>ПОМИДОР</item>
+        <item>КАРТОШКА</item>
+        <item>ПОРОСЕНОК</item>
+        <item>ЛИСА</item>
+        <item>МАШИНА</item>
+        <item>АВТОБУС</item>
+        <item>ДОКТОР</item>
+        <item>УЧИТЕЛЬ</item>
+        <item>ПРИВЕТ</item>
+        <item>СОЛНЦЕ</item>
+        <item>ДОЖДЬ</item>
+    </string-array>
+
+    <string-array name="Animals">
+        <item>Лошадь и жеребенок</item>
+        <item>Корова и телёнок</item>
+        <item>Олениха и олененок</item>
+        <item>Кошка и котёнок</item>
+        <item>Зайчиха и зайчонок</item>
+        <item>Лиса и лисёнок</item>
+        <item>Курица и цыплёнок</item>
+        <item>Собака и щенок</item>
+    </string-array>
+
+
+    <string-array name="Shapes">
+        <item>Квадрат</item>
+        <item>Круг</item>
+        <item>Прямоугольник</item>
+        <item>Сердце</item>
+        <item>Звезда</item>
+        <item>Треугольник</item>
+    </string-array>
+</resources>
